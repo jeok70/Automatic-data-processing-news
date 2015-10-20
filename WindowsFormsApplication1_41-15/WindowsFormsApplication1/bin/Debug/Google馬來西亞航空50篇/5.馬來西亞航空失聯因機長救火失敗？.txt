@@ -1,0 +1,7 @@
+﻿馬來西亞航空失聯因機長救火失敗？
+2014年3月19日
+/* #### MOBILE PHONES PORTRAIT OR LANDSCAPE #### */
+@MEDIA SCREEN AND (MAX-DEVICE-WIDTH: 640PX){
+
+
+
